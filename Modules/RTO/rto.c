@@ -5,7 +5,7 @@
 #define TASK_NUM    (4)
 
 
-Task * T_arr[TASK_NUM];
+static Task * T_arr[TASK_NUM];
 
 
 void RTO_init(void){
@@ -40,7 +40,7 @@ void RTO_scheduler_update(void){
                 }
                 else
                 {
-
+                    //DO Nothing
                 }
 
         }

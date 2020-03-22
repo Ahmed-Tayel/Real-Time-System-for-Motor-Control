@@ -22,7 +22,7 @@ Designed a Vacuum Cleaner software with the following specifications:
 The following figure illustrates the interaction between the modules:
 
 <p align="center">
-  <img src="Images/System_Description.PNG"/>
+  <img src="Images/System_Description.png"/>
   <br/>
 </p>
 
@@ -34,3 +34,6 @@ The system main cycle is 20 ms and the scheduler interrupt comes every 10 ms and
 2) Motor_update             : 10 ms
 3) SW_Update                : 20 ms
 4) Vaccum_Cleaner_update    : 20 ms
+
+## My Contribution
+Modules: Motor - Vaccum-Cleaner - Display - Led
